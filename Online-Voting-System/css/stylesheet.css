@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(121, 155, 217);
+}
+
+#headerSection{
+    padding: 100px;
+}
+
+#headerSection h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+    padding:  5px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding:  5px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+#loginbtn{
+    padding:  5px;
+    border-radius: 5px;
+    background-color:rgb(34, 46, 52);
+    color: white;
+    border-radius: 5px;
+}
+ 
+
